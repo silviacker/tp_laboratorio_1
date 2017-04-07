@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491584606 source:c:\users\silviab\desktop\facu sil\calculadorafinal\main.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<float.h>
+
